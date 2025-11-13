@@ -1,3 +1,5 @@
+Dashboard: https://lesteve.github.io/scikit-learn-website-analytics/pyodide-build/dashboard.html
+
 To generate the dashboard:
 ```bash
 uv run python -m panel convert dashboard.py --to pyodide-worker \
