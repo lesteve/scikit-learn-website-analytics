@@ -14,7 +14,18 @@ DATA_PATH = "data_1000pages_28days.json"
 def load_data(path=DATA_PATH):
     df = pd.read_json(path)
     df = df[["name", "visitors"]]
-    return df
+    # Remove some weird entries like /scikit-learn/...
+    mask = df['name'].str.match(r'^/(dev|stable|\d\.\d)')
+    df = df[mask]
+
+    # TODO remove API index.html pages
+    # TODO Should we remove internal stuff like base class or sklearn.utils?
+
+    # Group different versions
+    df['name'] = df['name'].str.extract(r'/(?:dev|stable|\d\.\d)/(.+)')
+    df_grouped = df[['name', 'visitors']].groupby('name').sum().sort_values('visitors', ascending=False).reset_index()
+
+    return df_grouped
 
 
 def make_table(df):
@@ -37,16 +48,15 @@ def make_histogram(df):
         # TODO there are still some duplicates e.g.
         # /stable/modules/preprocessing.html (preprocessing user guide)
         # /stable/api/sklearn.preprocessing.html (API page for preprocessing module)
-        version = match.group(1)
-        page_name = match.group(2)
+        page_name = match.group(1)
         if page_name == "index":
             # avoid duplication plenty of pages named "index" ...
             return match.string
         else:
-            return f"{page_name} ({version})"
+            return page_name
 
     df_plot["label"] = df_plot["name"].str.replace(
-        r"/(stable|\d\.\d).+?(\w+)\.html", label_func, regex=True
+        r".+?([^/]+)\.html", label_func, regex=True
     )
 
     fig = px.bar(
