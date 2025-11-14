@@ -7,7 +7,7 @@ import plotly.express as px
 
 pn.extension("tabulator", "plotly")
 
-DATA_PATH = "data_1000pages_28days.json"
+DATA_PATH = "data_1000pages_91days.json"
 
 
 @pn.cache()
@@ -139,7 +139,7 @@ filt = pn.bind(filtered_df, search)
 hist = pn.bind(make_histogram, filt)
 table = pn.bind(make_table, filt)
 
-header = pn.pane.Markdown("# Unique visitors over 28 days")
+header = pn.pane.Markdown("# Unique visitors over 91 days")
 
 search_buttons = pn.Row(btn_generated, btn_modules, btn_examples)
 search_row = pn.Row(search)
