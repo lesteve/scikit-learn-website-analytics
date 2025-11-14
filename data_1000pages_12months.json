@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "/stable/",
+    "visitors": 1750131
+  },
+  {
+    "name": "/stable/install.html",
+    "visitors": 727360
+  },
+  {
+    "name": "/stable/modules/linear_model.html",
+    "visitors": 607245
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.train_test_split.html",
+    "visitors": 606595
+  },
+  {
+    "name": "/stable/index.html",
+    "visitors": 591428
+  },
+  {
+    "name": "/stable/supervised_learning.html",
+    "visitors": 562031
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 514479
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 483960
+  },
+  {
+    "name": "/stable/search.html",
+    "visitors": 474384
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html",
+    "visitors": 460563
+  },
+  {
+    "name": "/stable/user_guide.html",
+    "visitors": 437638
+  },
+  {
+    "name": "/stable/modules/model_evaluation.html",
+    "visitors": 410743
+  },
+  {
+    "name": "/stable/modules/clustering.html",
+    "visitors": 392537
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.StandardScaler.html",
+    "visitors": 348890
+  },
+  {
+    "name": "/stable/modules/tree.html",
+    "visitors": 338831
+  },
+  {
+    "name": "/stable/modules/cross_validation.html",
+    "visitors": 337339
+  },
+  {
+    "name": "/stable/modules/svm.html",
+    "visitors": 332020
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.GridSearchCV.html",
+    "visitors": 330350
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.KMeans.html",
+    "visitors": 318074
+  },
+  {
+    "name": "/stable/api/index.html",
+    "visitors": 317560
+  },
+  {
+    "name": "/stable/modules/preprocessing.html",
+    "visitors": 312127
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.PCA.html",
+    "visitors": 293561
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html",
+    "visitors": 292783
+  },
+  {
+    "name": "/stable/getting_started.html",
+    "visitors": 277947
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.SVC.html",
+    "visitors": 247189
+  },
+  {
+    "name": "/stable/auto_examples/index.html",
+    "visitors": 238357
+  },
+  {
+    "name": "/stable/modules/ensemble.html",
+    "visitors": 233219
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html",
+    "visitors": 226283
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html",
+    "visitors": 206124
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+    "visitors": 205398
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.confusion_matrix.html",
+    "visitors": 196810
+  },
+  {
+    "name": "/stable/modules/neighbors.html",
+    "visitors": 168829
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.DBSCAN.html",
+    "visitors": 151404
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html",
+    "visitors": 150504
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.accuracy_score.html",
+    "visitors": 149219
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.pipeline.Pipeline.html",
+    "visitors": 148804
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html",
+    "visitors": 144156
+  },
+  {
+    "name": "/stable/modules/neural_networks_supervised.html",
+    "visitors": 143263
+  },
+  {
+    "name": "/stable/modules/naive_bayes.html",
+    "visitors": 142956
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.f1_score.html",
+    "visitors": 139379
+  },
+  {
+    "name": "/stable/modules/feature_selection.html",
+    "visitors": 137046
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neural_network.MLPClassifier.html",
+    "visitors": 134504
+  },
+  {
+    "name": "/stable/modules/grid_search.html",
+    "visitors": 133185
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html",
+    "visitors": 132442
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.cross_val_score.html",
+    "visitors": 131706
+  },
+  {
+    "name": "/stable/datasets/toy_dataset.html",
+    "visitors": 129747
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.classification_report.html",
+    "visitors": 127287
+  },
+  {
+    "name": "/stable/machine_learning_map.html",
+    "visitors": 126799
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.roc_auc_score.html",
+    "visitors": 121232
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.r2_score.html",
+    "visitors": 116429
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html",
+    "visitors": 115500
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.Ridge.html",
+    "visitors": 113483
+  },
+  {
+    "name": "/stable/auto_examples/classification/plot_classifier_comparison.html",
+    "visitors": 111613
+  },
+  {
+    "name": "/stable/api/sklearn.metrics.html",
+    "visitors": 110310
+  },
+  {
+    "name": "/stable/glossary.html",
+    "visitors": 110045
+  },
+  {
+    "name": "/stable/modules/mixture.html",
+    "visitors": 107554
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.TSNE.html",
+    "visitors": 107442
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html",
+    "visitors": 107031
+  },
+  {
+    "name": "/stable/modules/impute.html",
+    "visitors": 103057
+  },
+  {
+    "name": "/stable/model_selection.html",
+    "visitors": 102571
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mean_squared_error.html",
+    "visitors": 101721
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html",
+    "visitors": 100206
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.IsolationForest.html",
+    "visitors": 96427
+  },
+  {
+    "name": "/stable/modules/gaussian_process.html",
+    "visitors": 94604
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html",
+    "visitors": 93878
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.impute.SimpleImputer.html",
+    "visitors": 93593
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.KFold.html",
+    "visitors": 92316
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.HDBSCAN.html",
+    "visitors": 91991
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html",
+    "visitors": 90818
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html",
+    "visitors": 88909
+  },
+  {
+    "name": "/stable/modules/sgd.html",
+    "visitors": 87990
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.Lasso.html",
+    "visitors": 85804
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html",
+    "visitors": 84446
+  },
+  {
+    "name": "/stable/model_persistence.html",
+    "visitors": 83624
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 80212
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html",
+    "visitors": 80141
+  },
+  {
+    "name": "/stable/unsupervised_learning.html",
+    "visitors": 78773
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 78638
+  },
+  {
+    "name": "/stable/modules/decomposition.html",
+    "visitors": 78216
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.compose.ColumnTransformer.html",
+    "visitors": 77436
+  },
+  {
+    "name": "/stable/auto_examples/classification/index.html",
+    "visitors": 77382
+  },
+  {
+    "name": "/stable/api/sklearn.datasets.html",
+    "visitors": 76309
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neural_network.MLPRegressor.html",
+    "visitors": 75888
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.LinearSVC.html",
+    "visitors": 74755
+  },
+  {
+    "name": "/stable/modules/feature_extraction.html",
+    "visitors": 73280
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_iris.html",
+    "visitors": 72949
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html",
+    "visitors": 71188
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.SVR.html",
+    "visitors": 70571
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html",
+    "visitors": 69456
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.mixture.GaussianMixture.html",
+    "visitors": 68992
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.precision_score.html",
+    "visitors": 68976
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html",
+    "visitors": 68688
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.silhouette_score.html",
+    "visitors": 68248
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html",
+    "visitors": 66942
+  },
+  {
+    "name": "/stable/modules/outlier_detection.html",
+    "visitors": 66513
+  },
+  {
+    "name": "/stable/datasets/real_world.html",
+    "visitors": 65126
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.roc_curve.html",
+    "visitors": 64774
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html",
+    "visitors": 64321
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_precision_recall.html",
+    "visitors": 63971
+  },
+  {
+    "name": "/stable/modules/lda_qda.html",
+    "visitors": 63855
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 63514
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_forest_importances.html",
+    "visitors": 63312
+  },
+  {
+    "name": "/1.5/install.html",
+    "visitors": 61468
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html",
+    "visitors": 61360
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.model_selection.train_test_split.html",
+    "visitors": 61193
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_cluster_comparison.html",
+    "visitors": 60831
+  },
+  {
+    "name": "/stable/modules/calibration.html",
+    "visitors": 60176
+  },
+  {
+    "name": "/stable/api/sklearn.linear_model.html",
+    "visitors": 59601
+  },
+  {
+    "name": "/stable/modules/compose.html",
+    "visitors": 59213
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_breast_cancer.html",
+    "visitors": 58643
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.cross_validate.html",
+    "visitors": 58204
+  },
+  {
+    "name": "/stable/visualizations.html",
+    "visitors": 58052
+  },
+  {
+    "name": "/stable/modules/multiclass.html",
+    "visitors": 57770
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html",
+    "visitors": 57731
+  },
+  {
+    "name": "/stable/modules/permutation_importance.html",
+    "visitors": 57393
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_pca_iris.html",
+    "visitors": 57007
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.RobustScaler.html",
+    "visitors": 56915
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html",
+    "visitors": 55078
+  },
+  {
+    "name": "/stable/api/sklearn.model_selection.html",
+    "visitors": 54572
+  },
+  {
+    "name": "/stable/modules/manifold.html",
+    "visitors": 53984
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.SGDClassifier.html",
+    "visitors": 53625
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_california_housing.html",
+    "visitors": 53608
+  },
+  {
+    "name": "/stable/datasets.html",
+    "visitors": 52706
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.ElasticNet.html",
+    "visitors": 52372
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html",
+    "visitors": 51645
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.cluster.KMeans.html",
+    "visitors": 50372
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_dbscan.html",
+    "visitors": 49881
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html",
+    "visitors": 49844
+  },
+  {
+    "name": "/stable/api/sklearn.preprocessing.html",
+    "visitors": 49648
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_all_scaling.html",
+    "visitors": 49369
+  },
+  {
+    "name": "/stable/data_transforms.html",
+    "visitors": 48536
+  },
+  {
+    "name": "/stable/auto_examples/tree/plot_tree_regression.html",
+    "visitors": 48128
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mean_absolute_error.html",
+    "visitors": 47728
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.plot_tree.html",
+    "visitors": 47467
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_kmeans_digits.html",
+    "visitors": 47105
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.SelectKBest.html",
+    "visitors": 45617
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.recall_score.html",
+    "visitors": 45497
+  },
+  {
+    "name": "/stable/modules/kernel_ridge.html",
+    "visitors": 45096
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.SGDRegressor.html",
+    "visitors": 45009
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_diabetes.html",
+    "visitors": 44728
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.RFE.html",
+    "visitors": 44206
+  },
+  {
+    "name": "/stable/api/sklearn.ensemble.html",
+    "visitors": 43805
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html",
+    "visitors": 43169
+  },
+  {
+    "name": "/stable/api/sklearn.html",
+    "visitors": 42409
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html",
+    "visitors": 42065
+  },
+  {
+    "name": "/stable/api/sklearn.svm.html",
+    "visitors": 41532
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.precision_recall_curve.html",
+    "visitors": 41346
+  },
+  {
+    "name": "/stable/modules/partial_dependence.html",
+    "visitors": 41259
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.average_precision_score.html",
+    "visitors": 41239
+  },
+  {
+    "name": "/stable/about.html",
+    "visitors": 41157
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_roc.html",
+    "visitors": 40268
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html",
+    "visitors": 40041
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html",
+    "visitors": 39979
+  },
+  {
+    "name": "/stable/auto_examples/classification/plot_digits_classification.html",
+    "visitors": 39267
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_digits.html",
+    "visitors": 38957
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise_distances.html",
+    "visitors": 38753
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.impute.KNNImputer.html",
+    "visitors": 38118
+  },
+  {
+    "name": "/stable/api/sklearn.cluster.html",
+    "visitors": 37792
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.log_loss.html",
+    "visitors": 37761
+  },
+  {
+    "name": "/stable/auto_examples/tree/plot_unveil_tree_structure.html",
+    "visitors": 37401
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.svm.SVC.html",
+    "visitors": 37235
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html",
+    "visitors": 37042
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.SpectralClustering.html",
+    "visitors": 37000
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_wine.html",
+    "visitors": 36557
+  },
+  {
+    "name": "/1.5/modules/model_evaluation.html",
+    "visitors": 35592
+  },
+  {
+    "name": "/stable/whats_new.html",
+    "visitors": 35431
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_blobs.html",
+    "visitors": 35427
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.normalize.html",
+    "visitors": 35118
+  },
+  {
+    "name": "/stable/auto_examples/cluster/index.html",
+    "visitors": 34993
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html",
+    "visitors": 34832
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html",
+    "visitors": 34755
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.auc.html",
+    "visitors": 34722
+  },
+  {
+    "name": "/1.5/modules/cross_validation.html",
+    "visitors": 34294
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.TargetEncoder.html",
+    "visitors": 34061
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html",
+    "visitors": 33868
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.OneClassSVM.html",
+    "visitors": 33819
+  },
+  {
+    "name": "/stable/modules/density.html",
+    "visitors": 33360
+  },
+  {
+    "name": "/stable/common_pitfalls.html",
+    "visitors": 33159
+  },
+  {
+    "name": "/stable/auto_examples/tree/plot_iris_dtc.html",
+    "visitors": 32996
+  },
+  {
+    "name": "/1.5/modules/svm.html",
+    "visitors": 32946
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_classification.html",
+    "visitors": 32728
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html",
+    "visitors": 32408
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html",
+    "visitors": 32350
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.StandardScaler.html",
+    "visitors": 32099
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html",
+    "visitors": 31782
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ols.html",
+    "visitors": 31729
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html",
+    "visitors": 31281
+  },
+  {
+    "name": "/stable/api/sklearn.tree.html",
+    "visitors": 31201
+  },
+  {
+    "name": "/1.5/modules/tree.html",
+    "visitors": 31119
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.pipeline.make_pipeline.html",
+    "visitors": 30962
+  },
+  {
+    "name": "/stable/auto_examples/text/plot_document_clustering.html",
+    "visitors": 30812
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 30616
+  },
+  {
+    "name": "/1.5/modules/clustering.html",
+    "visitors": 30149
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html",
+    "visitors": 30087
+  },
+  {
+    "name": "/1.4/auto_examples/datasets/plot_iris_dataset.html",
+    "visitors": 30058
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.impute.IterativeImputer.html",
+    "visitors": 30025
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html",
+    "visitors": 29998
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.decomposition.PCA.html",
+    "visitors": 29771
+  },
+  {
+    "name": "/stable/datasets/sample_generators.html",
+    "visitors": 29740
+  },
+  {
+    "name": "/1.6/install.html",
+    "visitors": 28899
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_cyclical_feature_engineering.html",
+    "visitors": 28702
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.neighbors.KNeighborsClassifier.html",
+    "visitors": 28691
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.Perceptron.html",
+    "visitors": 28264
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.tree.DecisionTreeClassifier.html",
+    "visitors": 28201
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.RidgeCV.html",
+    "visitors": 28058
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LassoCV.html",
+    "visitors": 27947
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.RFECV.html",
+    "visitors": 27618
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html",
+    "visitors": 27537
+  },
+  {
+    "name": "/stable/developers/develop.html",
+    "visitors": 27215
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.class_weight.compute_class_weight.html",
+    "visitors": 26948
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_cv_indices.html",
+    "visitors": 26796
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_hdbscan.html",
+    "visitors": 26773
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.VotingClassifier.html",
+    "visitors": 26725
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_confusion_matrix.html",
+    "visitors": 26653
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html",
+    "visitors": 26649
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html",
+    "visitors": 26578
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.inspection.permutation_importance.html",
+    "visitors": 26568
+  },
+  {
+    "name": "/stable/api/sklearn.neighbors.html",
+    "visitors": 26415
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_agglomerative_dendrogram.html",
+    "visitors": 26247
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_svm_kernels.html",
+    "visitors": 26124
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.PowerTransformer.html",
+    "visitors": 26067
+  },
+  {
+    "name": "/stable/modules/classification_threshold.html",
+    "visitors": 26008
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.model_selection.GridSearchCV.html",
+    "visitors": 25779
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_scaling_importance.html",
+    "visitors": 25777
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_6_0.html",
+    "visitors": 25527
+  },
+  {
+    "name": "/stable/modules/learning_curve.html",
+    "visitors": 25130
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_5_0.html",
+    "visitors": 25072
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_rbf_parameters.html",
+    "visitors": 25047
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.QuantileTransformer.html",
+    "visitors": 24882
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.MinMaxScaler.html",
+    "visitors": 24793
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html",
+    "visitors": 24661
+  },
+  {
+    "name": "/stable/auto_examples/text/plot_document_classification_20newsgroups.html",
+    "visitors": 24558
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.GroupKFold.html",
+    "visitors": 24523
+  },
+  {
+    "name": "/stable/modules/neural_networks_unsupervised.html",
+    "visitors": 24473
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.cross_val_predict.html",
+    "visitors": 24409
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html",
+    "visitors": 24392
+  },
+  {
+    "name": "/1.5/search.html",
+    "visitors": 24312
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.StackingClassifier.html",
+    "visitors": 24030
+  },
+  {
+    "name": "/stable/datasets/loading_other_datasets.html",
+    "visitors": 23857
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.model_selection.train_test_split.html",
+    "visitors": 23846
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.NMF.html",
+    "visitors": 23839
+  },
+  {
+    "name": "/stable/api/sklearn.neural_network.html",
+    "visitors": 23742
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ols_ridge.html",
+    "visitors": 23712
+  },
+  {
+    "name": "/stable/modules/semi_supervised.html",
+    "visitors": 23625
+  },
+  {
+    "name": "/1.5/auto_examples/datasets/plot_iris_dataset.html",
+    "visitors": 23252
+  },
+  {
+    "name": "/stable/api/sklearn.feature_selection.html",
+    "visitors": 23024
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.dummy.DummyClassifier.html",
+    "visitors": 22364
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_svm_scale_c.html",
+    "visitors": 22289
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.make_scorer.html",
+    "visitors": 22274
+  },
+  {
+    "name": "/1.5/modules/linear_model.html",
+    "visitors": 22244
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.RandomForestRegressor.html",
+    "visitors": 22180
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_moons.html",
+    "visitors": 22151
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html",
+    "visitors": 22148
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.ensemble.RandomForestClassifier.html",
+    "visitors": 22139
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.base.BaseEstimator.html",
+    "visitors": 22021
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_kmeans_assumptions.html",
+    "visitors": 22018
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html",
+    "visitors": 22003
+  },
+  {
+    "name": "/1.4/tutorial/index.html",
+    "visitors": 21990
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html",
+    "visitors": 21973
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.distance_metrics.html",
+    "visitors": 21959
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.Normalizer.html",
+    "visitors": 21937
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.f1_score.html",
+    "visitors": 21928
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.model_selection.GridSearchCV.html",
+    "visitors": 21834
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.RocCurveDisplay.html",
+    "visitors": 21799
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.KDTree.html",
+    "visitors": 21770
+  },
+  {
+    "name": "/stable/api/sklearn.pipeline.html",
+    "visitors": 21564
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.classification_report.html",
+    "visitors": 21528
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.MiniBatchKMeans.html",
+    "visitors": 21466
+  },
+  {
+    "name": "/stable/inspection.html",
+    "visitors": 21357
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html",
+    "visitors": 21179
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_isolation_forest.html",
+    "visitors": 21137
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html",
+    "visitors": 21013
+  },
+  {
+    "name": "/stable/modules/metrics.html",
+    "visitors": 20972
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.pipeline.Pipeline.html",
+    "visitors": 20971
+  },
+  {
+    "name": "/stable/metadata_routing.html",
+    "visitors": 20876
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.OPTICS.html",
+    "visitors": 20568
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_7_0.html",
+    "visitors": 20374
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/index.html",
+    "visitors": 20337
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.accuracy_score.html",
+    "visitors": 20313
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html",
+    "visitors": 20098
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html",
+    "visitors": 20059
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html",
+    "visitors": 19943
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.mutual_info_regression.html",
+    "visitors": 19926
+  },
+  {
+    "name": "/stable/auto_examples/tree/plot_cost_complexity_pruning.html",
+    "visitors": 19880
+  },
+  {
+    "name": "/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html",
+    "visitors": 19843
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+    "visitors": 19821
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_hgbt_regression.html",
+    "visitors": 19789
+  },
+  {
+    "name": "/dev/versions.html",
+    "visitors": 19750
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.tree.DecisionTreeClassifier.html",
+    "visitors": 19657
+  },
+  {
+    "name": "/stable/auto_examples/classification/plot_lda_qda.html",
+    "visitors": 19645
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.KernelPCA.html",
+    "visitors": 19378
+  },
+  {
+    "name": "/stable/api/sklearn.naive_bayes.html",
+    "visitors": 19330
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_classification.html",
+    "visitors": 19268
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_quantile_regression.html",
+    "visitors": 19153
+  },
+  {
+    "name": "/stable/modules/cross_decomposition.html",
+    "visitors": 19126
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.KernelDensity.html",
+    "visitors": 19123
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.BallTree.html",
+    "visitors": 19102
+  },
+  {
+    "name": "/stable/api/sklearn.base.html",
+    "visitors": 19064
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_time_series_lagged_features.html",
+    "visitors": 19030
+  },
+  {
+    "name": "/stable/modules/isotonic.html",
+    "visitors": 18937
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html",
+    "visitors": 18702
+  },
+  {
+    "name": "/stable/auto_examples/inspection/plot_permutation_importance.html",
+    "visitors": 18679
+  },
+  {
+    "name": "/stable/auto_examples/classification/plot_classification_probability.html",
+    "visitors": 18656
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html",
+    "visitors": 18527
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/index.html",
+    "visitors": 18521
+  },
+  {
+    "name": "/stable/auto_examples/tree/index.html",
+    "visitors": 18515
+  },
+  {
+    "name": "/stable/auto_examples/calibration/plot_calibration_curve.html",
+    "visitors": 18485
+  },
+  {
+    "name": "/stable/whats_new/v1.6.html",
+    "visitors": 18466
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.tree.DecisionTreeClassifier.html",
+    "visitors": 18291
+  },
+  {
+    "name": "/stable/api/sklearn.decomposition.html",
+    "visitors": 18267
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_lof_outlier_detection.html",
+    "visitors": 18267
+  },
+  {
+    "name": "/stable/related_projects.html",
+    "visitors": 18228
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.StratifiedGroupKFold.html",
+    "visitors": 18216
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_linkage_comparison.html",
+    "visitors": 18211
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.HuberRegressor.html",
+    "visitors": 18188
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html",
+    "visitors": 18187
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_svm_regression.html",
+    "visitors": 18166
+  },
+  {
+    "name": "/stable/computing.html",
+    "visitors": 18164
+  },
+  {
+    "name": "/stable/modules/covariance.html",
+    "visitors": 18029
+  },
+  {
+    "name": "/1.5/auto_examples/linear_model/plot_ols.html",
+    "visitors": 18028
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.cluster.DBSCAN.html",
+    "visitors": 18009
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_regression.html",
+    "visitors": 18008
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.FastICA.html",
+    "visitors": 17791
+  },
+  {
+    "name": "/1.4/tutorial/basic/tutorial.html",
+    "visitors": 17719
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multioutput.MultiOutputRegressor.html",
+    "visitors": 17560
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.confusion_matrix.html",
+    "visitors": 17540
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.kernel_ridge.KernelRidge.html",
+    "visitors": 17454
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.preprocessing.StandardScaler.html",
+    "visitors": 17434
+  },
+  {
+    "name": "/stable/api/sklearn.feature_extraction.html",
+    "visitors": 17250
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html",
+    "visitors": 17224
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_forest_hist_grad_boosting_comparison.html",
+    "visitors": 16991
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.VarianceThreshold.html",
+    "visitors": 16959
+  },
+  {
+    "name": "/1.5/modules/preprocessing.html",
+    "visitors": 16929
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_learning_curve.html",
+    "visitors": 16891
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.BayesianRidge.html",
+    "visitors": 16852
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html",
+    "visitors": 16847
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.jaccard_score.html",
+    "visitors": 16750
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.mean_squared_error.html",
+    "visitors": 16675
+  },
+  {
+    "name": "/stable/presentations.html",
+    "visitors": 16633
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.KBinsDiscretizer.html",
+    "visitors": 16536
+  },
+  {
+    "name": "/stable/modules/biclustering.html",
+    "visitors": 16501
+  },
+  {
+    "name": "/1.5/datasets/toy_dataset.html",
+    "visitors": 16497
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.AffinityPropagation.html",
+    "visitors": 16484
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.MeanShift.html",
+    "visitors": 16453
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.MDS.html",
+    "visitors": 16221
+  },
+  {
+    "name": "/stable/modules/unsupervised_reduction.html",
+    "visitors": 16210
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.inspection.DecisionBoundaryDisplay.html",
+    "visitors": 16116
+  },
+  {
+    "name": "/stable/modules/kernel_approximation.html",
+    "visitors": 16075
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html",
+    "visitors": 16025
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html",
+    "visitors": 15959
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html",
+    "visitors": 15920
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_iris_svc.html",
+    "visitors": 15894
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html",
+    "visitors": 15894
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.svm.SVC.html",
+    "visitors": 15878
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_openml.html",
+    "visitors": 15825
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html",
+    "visitors": 15818
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.resample.html",
+    "visitors": 15796
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html",
+    "visitors": 15703
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.fbeta_score.html",
+    "visitors": 15584
+  },
+  {
+    "name": "/1.3/tutorial/machine_learning_map/",
+    "visitors": 15571
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_anomaly_comparison.html",
+    "visitors": 15534
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html",
+    "visitors": 15466
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.neighbors.KNeighborsClassifier.html",
+    "visitors": 15419
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.preprocessing.StandardScaler.html",
+    "visitors": 15387
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.LinearSVR.html",
+    "visitors": 15329
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.learning_curve.html",
+    "visitors": 15312
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.mixture.BayesianGaussianMixture.html",
+    "visitors": 15290
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.Ridge.html",
+    "visitors": 15177
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html",
+    "visitors": 15095
+  },
+  {
+    "name": "/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html",
+    "visitors": 15052
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.StackingRegressor.html",
+    "visitors": 15031
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.roc_auc_score.html",
+    "visitors": 14992
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_pca_vs_lda.html",
+    "visitors": 14917
+  },
+  {
+    "name": "/stable/modules/preprocessing_targets.html",
+    "visitors": 14844
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.confusion_matrix.html",
+    "visitors": 14842
+  },
+  {
+    "name": "/1.5/modules/neural_networks_supervised.html",
+    "visitors": 14685
+  },
+  {
+    "name": "/1.5/modules/naive_bayes.html",
+    "visitors": 14616
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_kernel_pca.html",
+    "visitors": 14608
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_rfe_with_cross_validation.html",
+    "visitors": 14605
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.BaggingRegressor.html",
+    "visitors": 14544
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_column_transformer_mixed_types.html",
+    "visitors": 14489
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html",
+    "visitors": 14431
+  },
+  {
+    "name": "/stable/faq.html",
+    "visitors": 14417
+  },
+  {
+    "name": "/1.5/modules/feature_selection.html",
+    "visitors": 14262
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html",
+    "visitors": 14211
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.preprocessing.LabelEncoder.html",
+    "visitors": 14186
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/index.html",
+    "visitors": 14090
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html",
+    "visitors": 13979
+  },
+  {
+    "name": "/stable/computing/parallelism.html",
+    "visitors": 13889
+  },
+  {
+    "name": "/1.5/supervised_learning.html",
+    "visitors": 13838
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html",
+    "visitors": 13831
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.f_classif.html",
+    "visitors": 13814
+  },
+  {
+    "name": "/1.5/modules/ensemble.html",
+    "visitors": 13773
+  },
+  {
+    "name": "/1.5/modules/mixture.html",
+    "visitors": 13720
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.ParameterGrid.html",
+    "visitors": 13633
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.ndcg_score.html",
+    "visitors": 13423
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.model_selection.RandomizedSearchCV.html",
+    "visitors": 13408
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.k_means.html",
+    "visitors": 13388
+  },
+  {
+    "name": "/1.5/modules/grid_search.html",
+    "visitors": 13285
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_face_recognition.html",
+    "visitors": 13272
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.calibration.calibration_curve.html",
+    "visitors": 13270
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mutual_info_score.html",
+    "visitors": 13166
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_polynomial_interpolation.html",
+    "visitors": 13148
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/index.html",
+    "visitors": 13115
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.Birch.html",
+    "visitors": 13038
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_underfitting_overfitting.html",
+    "visitors": 12993
+  },
+  {
+    "name": "/stable/auto_examples/neural_networks/plot_mlp_alpha.html",
+    "visitors": 12922
+  },
+  {
+    "name": "/stable/roadmap.html",
+    "visitors": 12901
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_t_sne_perplexity.html",
+    "visitors": 12840
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+    "visitors": 12707
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.manifold.TSNE.html",
+    "visitors": 12649
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.ensemble.RandomForestRegressor.html",
+    "visitors": 12629
+  },
+  {
+    "name": "/1.4/tutorial/text_analytics/working_with_text_data.html",
+    "visitors": 12624
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ridge_path.html",
+    "visitors": 12623
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.naive_bayes.CategoricalNB.html",
+    "visitors": 12491
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html",
+    "visitors": 12443
+  },
+  {
+    "name": "/1.5/api/sklearn.metrics.html",
+    "visitors": 12435
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.ShuffleSplit.html",
+    "visitors": 12397
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html",
+    "visitors": 12373
+  },
+  {
+    "name": "/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html",
+    "visitors": 12358
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.multilabel_confusion_matrix.html",
+    "visitors": 12346
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_quantile.html",
+    "visitors": 12335
+  },
+  {
+    "name": "/stable/auto_examples/calibration/plot_compare_calibration.html",
+    "visitors": 12296
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html",
+    "visitors": 12097
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html",
+    "visitors": 12047
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+    "visitors": 12031
+  },
+  {
+    "name": "/1.5/index.html",
+    "visitors": 12002
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_compare_methods.html",
+    "visitors": 11985
+  },
+  {
+    "name": "/stable/auto_examples/datasets/index.html",
+    "visitors": 11914
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_circles.html",
+    "visitors": 11762
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_select_from_model_diabetes.html",
+    "visitors": 11743
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.svm.SVR.html",
+    "visitors": 11647
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html",
+    "visitors": 11576
+  },
+  {
+    "name": "/stable/auto_examples/neural_networks/index.html",
+    "visitors": 11572
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/index.html",
+    "visitors": 11567
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_mini_batch_kmeans.html",
+    "visitors": 11560
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_mean_shift.html",
+    "visitors": 11507
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.chi2.html",
+    "visitors": 11485
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.r2_score.html",
+    "visitors": 11469
+  },
+  {
+    "name": "/stable/modules/random_projection.html",
+    "visitors": 11417
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.isotonic.IsotonicRegression.html",
+    "visitors": 11397
+  },
+  {
+    "name": "/stable/auto_examples/inspection/plot_partial_dependence.html",
+    "visitors": 11388
+  },
+  {
+    "name": "/stable/api/sklearn.impute.html",
+    "visitors": 11377
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.RepeatedStratifiedKFold.html",
+    "visitors": 11366
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.HalvingGridSearchCV.html",
+    "visitors": 11351
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.explained_variance_score.html",
+    "visitors": 11296
+  },
+  {
+    "name": "/1.5/user_guide.html",
+    "visitors": 11290
+  },
+  {
+    "name": "/1.5/auto_examples/model_selection/plot_precision_recall.html",
+    "visitors": 11181
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.impute.SimpleImputer.html",
+    "visitors": 11155
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.base.TransformerMixin.html",
+    "visitors": 11124
+  },
+  {
+    "name": "/stable/whats_new/v1.7.html",
+    "visitors": 11122
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.model_selection.GridSearchCV.html",
+    "visitors": 11079
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_incremental_pca.html",
+    "visitors": 11079
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_nnls.html",
+    "visitors": 11043
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.compose.ColumnTransformer.html",
+    "visitors": 11038
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ransac.html",
+    "visitors": 11024
+  },
+  {
+    "name": "/1.5/modules/neighbors.html",
+    "visitors": 11017
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html",
+    "visitors": 11002
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_roc_crossval.html",
+    "visitors": 10996
+  },
+  {
+    "name": "/stable/auto_examples/neural_networks/plot_mlp_training_curves.html",
+    "visitors": 10993
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.f_regression.html",
+    "visitors": 10982
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.IsolationForest.html",
+    "visitors": 10938
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multioutput.MultiOutputClassifier.html",
+    "visitors": 10833
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.SplineTransformer.html",
+    "visitors": 10827
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.decomposition.PCA.html",
+    "visitors": 10768
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_4_0.html",
+    "visitors": 10760
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.precision_score.html",
+    "visitors": 10731
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.Matern.html",
+    "visitors": 10695
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.config_context.html",
+    "visitors": 10621
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.NuSVC.html",
+    "visitors": 10615
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.VotingRegressor.html",
+    "visitors": 10426
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html",
+    "visitors": 10375
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_gmm_selection.html",
+    "visitors": 10370
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html",
+    "visitors": 10362
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_agglomerative_clustering.html",
+    "visitors": 10360
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_target_encoder.html",
+    "visitors": 10284
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_oneclass.html",
+    "visitors": 10232
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.PrecisionRecallDisplay.html",
+    "visitors": 10217
+  },
+  {
+    "name": "/stable/api/sklearn.gaussian_process.html",
+    "visitors": 10187
+  },
+  {
+    "name": "/1.3/tutorial/statistical_inference/supervised_learning.html",
+    "visitors": 10146
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_gmm_covariances.html",
+    "visitors": 10047
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.scale.html",
+    "visitors": 10037
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.inspection.PartialDependenceDisplay.html",
+    "visitors": 10030
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.LabelEncoder.html",
+    "visitors": 10015
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_faces_decomposition.html",
+    "visitors": 9998
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_map_data_to_normal.html",
+    "visitors": 9935
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.Isomap.html",
+    "visitors": 9913
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.minmax_scale.html",
+    "visitors": 9888
+  },
+  {
+    "name": "/stable/api/sklearn.calibration.html",
+    "visitors": 9886
+  },
+  {
+    "name": "/1.4/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 9850
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_agglomerative_clustering_metrics.html",
+    "visitors": 9835
+  },
+  {
+    "name": "/stable/auto_examples/impute/plot_missing_values.html",
+    "visitors": 9833
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_stack_predictors.html",
+    "visitors": 9798
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_cost_sensitive_learning.html",
+    "visitors": 9775
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_stock_market.html",
+    "visitors": 9759
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_kmeans_plusplus.html",
+    "visitors": 9724
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_rfe_digits.html",
+    "visitors": 9694
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html",
+    "visitors": 9684
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.cluster.HDBSCAN.html",
+    "visitors": 9662
+  },
+  {
+    "name": "/stable/api/sklearn.dummy.html",
+    "visitors": 9658
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html",
+    "visitors": 9615
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html",
+    "visitors": 9603
+  },
+  {
+    "name": "/stable/api/sklearn.utils.html",
+    "visitors": 9527
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_discretization_classification.html",
+    "visitors": 9500
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.roc_curve.html",
+    "visitors": 9496
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.r_regression.html",
+    "visitors": 9494
+  },
+  {
+    "name": "/stable/whats_new/v0.19.html",
+    "visitors": 9402
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.QuantileRegressor.html",
+    "visitors": 9376
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.dummy.DummyRegressor.html",
+    "visitors": 9369
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.model_selection.train_test_split.html",
+    "visitors": 9357
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.cosine_distances.html",
+    "visitors": 9320
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html",
+    "visitors": 9308
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.SparsePCA.html",
+    "visitors": 9279
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html",
+    "visitors": 9259
+  },
+  {
+    "name": "/1.5/modules/gaussian_process.html",
+    "visitors": 9254
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.RepeatedKFold.html",
+    "visitors": 9253
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_lasso_model_selection.html",
+    "visitors": 9200
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.haversine_distances.html",
+    "visitors": 9185
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.tree.DecisionTreeRegressor.html",
+    "visitors": 9180
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ard.html",
+    "visitors": 9164
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html",
+    "visitors": 9160
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html",
+    "visitors": 9155
+  },
+  {
+    "name": "/1.5/api/index.html",
+    "visitors": 9080
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_outlier_detection_wine.html",
+    "visitors": 9077
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.compose.TransformedTargetRegressor.html",
+    "visitors": 9065
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.Bunch.html",
+    "visitors": 9054
+  },
+  {
+    "name": "/stable/auto_examples/svm/index.html",
+    "visitors": 8893
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_compare_reduction.html",
+    "visitors": 8837
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.pipeline.FeatureUnion.html",
+    "visitors": 8837
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_coin_ward_segmentation.html",
+    "visitors": 8827
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_bisect_kmeans.html",
+    "visitors": 8820
+  },
+  {
+    "name": "/stable/dispatching.html",
+    "visitors": 8817
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cross_decomposition.CCA.html",
+    "visitors": 8748
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_affinity_propagation.html",
+    "visitors": 8747
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.neural_network.MLPClassifier.html",
+    "visitors": 8719
+  },
+  {
+    "name": "/stable/auto_examples/calibration/plot_calibration.html",
+    "visitors": 8705
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_lle_digits.html",
+    "visitors": 8699
+  },
+  {
+    "name": "/1.5/auto_examples/cluster/plot_kmeans_silhouette_analysis.html",
+    "visitors": 8646
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/index.html",
+    "visitors": 8640
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neural_network.BernoulliRBM.html",
+    "visitors": 8634
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.root_mean_squared_error.html",
+    "visitors": 8606
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_optics.html",
+    "visitors": 8606
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/index.html",
+    "visitors": 8597
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html",
+    "visitors": 8564
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_digits_denoising.html",
+    "visitors": 8543
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.decomposition.PCA.html",
+    "visitors": 8539
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_logistic_l1_l2_sparsity.html",
+    "visitors": 8538
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.DistanceMetric.html",
+    "visitors": 8523
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.cluster.AgglomerativeClustering.html",
+    "visitors": 8520
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_poisson_regression_non_normal_loss.html",
+    "visitors": 8507
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.impute.SimpleImputer.html",
+    "visitors": 8488
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.load_iris.html",
+    "visitors": 8459
+  },
+  {
+    "name": "/stable/auto_examples/bicluster/index.html",
+    "visitors": 8453
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.FeatureAgglomeration.html",
+    "visitors": 8406
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.export_graphviz.html",
+    "visitors": 8385
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_olivetti_faces.html",
+    "visitors": 8365
+  },
+  {
+    "name": "/1.5/auto_examples/ensemble/plot_forest_importances.html",
+    "visitors": 8360
+  },
+  {
+    "name": "/stable/auto_examples/applications/index.html",
+    "visitors": 8331
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.top_k_accuracy_score.html",
+    "visitors": 8319
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_categorical.html",
+    "visitors": 8308
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.BisectingKMeans.html",
+    "visitors": 8299
+  },
+  {
+    "name": "/stable/api/sklearn.manifold.html",
+    "visitors": 8290
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.TunedThresholdClassifierCV.html",
+    "visitors": 8212
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_digits_pipe.html",
+    "visitors": 8196
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_ensemble_oob.html",
+    "visitors": 8170
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.silhouette_score.html",
+    "visitors": 8147
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html",
+    "visitors": 8131
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.ensemble.RandomForestRegressor.html",
+    "visitors": 8123
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.neural_network.MLPClassifier.html",
+    "visitors": 8059
+  },
+  {
+    "name": "/stable/api/sklearn.compose.html",
+    "visitors": 8040
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.calibration.CalibrationDisplay.html",
+    "visitors": 7989
+  },
+  {
+    "name": "/stable/auto_examples/bicluster/plot_spectral_biclustering.html",
+    "visitors": 7979
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_adaboost_regression.html",
+    "visitors": 7958
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.compose.make_column_transformer.html",
+    "visitors": 7948
+  },
+  {
+    "name": "/stable/api/sklearn.multiclass.html",
+    "visitors": 7944
+  },
+  {
+    "name": "/1.5/modules/permutation_importance.html",
+    "visitors": 7935
+  },
+  {
+    "name": "/stable/computing/scaling_strategies.html",
+    "visitors": 7890
+  },
+  {
+    "name": "/1.5/glossary.html",
+    "visitors": 7882
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.class_weight.compute_sample_weight.html",
+    "visitors": 7859
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_tweedie_regression_insurance_claims.html",
+    "visitors": 7833
+  },
+  {
+    "name": "/1.5/auto_examples/datasets/plot_digits_last_image.html",
+    "visitors": 7831
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.base.RegressorMixin.html",
+    "visitors": 7814
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_randomized_search.html",
+    "visitors": 7780
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html",
+    "visitors": 7778
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.silhouette_samples.html",
+    "visitors": 7764
+  },
+  {
+    "name": "/stable/auto_examples/cross_decomposition/plot_compare_cross_decomposition.html",
+    "visitors": 7750
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_display_object_visualization.html",
+    "visitors": 7737
+  },
+  {
+    "name": "/1.5/modules/impute.html",
+    "visitors": 7734
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.cluster.AgglomerativeClustering.html",
+    "visitors": 7717
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_gmm_pdf.html",
+    "visitors": 7693
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_cv_predict.html",
+    "visitors": 7689
+  },
+  {
+    "name": "/dev/index.html",
+    "visitors": 7685
+  },
+  {
+    "name": "/stable/auto_examples/classification/plot_lda.html",
+    "visitors": 7664
+  },
+  {
+    "name": "/stable/auto_examples/datasets/plot_random_multilabel_dataset.html",
+    "visitors": 7644
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.model_selection.KFold.html",
+    "visitors": 7633
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html",
+    "visitors": 7607
+  },
+  {
+    "name": "/stable/auto_examples/calibration/index.html",
+    "visitors": 7600
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_bayesian_ridge_curvefit.html",
+    "visitors": 7586
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.covariance.LedoitWolf.html",
+    "visitors": 7552
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_ward_structured_vs_unstructured.html",
+    "visitors": 7502
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html",
+    "visitors": 7495
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.svm.SVC.html",
+    "visitors": 7485
+  },
+  {
+    "name": "/dev/search.html",
+    "visitors": 7456
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_separating_hyperplane.html",
+    "visitors": 7447
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html",
+    "visitors": 7447
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_transformed_target.html",
+    "visitors": 7410
+  },
+  {
+    "name": "/dev/developers/contributing.html",
+    "visitors": 7403
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.SGDClassifier.html",
+    "visitors": 7366
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.base.ClassifierMixin.html",
+    "visitors": 7349
+  },
+  {
+    "name": "/stable/auto_examples/neural_networks/plot_mnist_filters.html",
+    "visitors": 7344
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_logistic_multinomial.html",
+    "visitors": 7330
+  },
+  {
+    "name": "/stable/whats_new/v1.5.html",
+    "visitors": 7330
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_set_output.html",
+    "visitors": 7296
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_2_0.html",
+    "visitors": 7284
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 7252
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.ridge_regression.html",
+    "visitors": 7246
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_grid_search_refit_callable.html",
+    "visitors": 7230
+  },
+  {
+    "name": "/stable/auto_examples/covariance/plot_mahalanobis_distances.html",
+    "visitors": 7211
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_regression.html",
+    "visitors": 7192
+  },
+  {
+    "name": "/stable/auto_examples/calibration/plot_calibration_multiclass.html",
+    "visitors": 7173
+  },
+  {
+    "name": "/stable/api/sklearn.covariance.html",
+    "visitors": 7172
+  },
+  {
+    "name": "/stable/modules/array_api.html",
+    "visitors": 7168
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.recall_score.html",
+    "visitors": 7159
+  },
+  {
+    "name": "/1.5/modules/outlier_detection.html",
+    "visitors": 7144
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.svm.LinearSVC.html",
+    "visitors": 7143
+  },
+  {
+    "name": "/stable/support.html",
+    "visitors": 7138
+  },
+  {
+    "name": "/dev/modules/model_evaluation.html",
+    "visitors": 7128
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html",
+    "visitors": 7067
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html",
+    "visitors": 7045
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.compose.make_column_selector.html",
+    "visitors": 7030
+  },
+  {
+    "name": "/1.7/modules/generated/sklearn.linear_model.LinearRegression.html",
+    "visitors": 7021
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_kde_1d.html",
+    "visitors": 7006
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.TweedieRegressor.html",
+    "visitors": 6991
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.root_mean_squared_log_error.html",
+    "visitors": 6940
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.neighbors.KNeighborsClassifier.html",
+    "visitors": 6907
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.kneighbors_graph.html",
+    "visitors": 6905
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.neighbors.KNeighborsRegressor.html",
+    "visitors": 6895
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.tree.plot_tree.html",
+    "visitors": 6869
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_lasso_lasso_lars_elasticnet_path.html",
+    "visitors": 6859
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.Binarizer.html",
+    "visitors": 6858
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.HalvingRandomSearchCV.html",
+    "visitors": 6846
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_logistic.html",
+    "visitors": 6826
+  },
+  {
+    "name": "/dev/user_guide.html",
+    "visitors": 6813
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html",
+    "visitors": 6813
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.tree.DecisionTreeRegressor.html",
+    "visitors": 6811
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html",
+    "visitors": 6809
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html",
+    "visitors": 6797
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.Lasso.html",
+    "visitors": 6779
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_kernel_ridge_regression.html",
+    "visitors": 6752
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.mean_absolute_error.html",
+    "visitors": 6728
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_outlier_detection_bench.html",
+    "visitors": 6718
+  },
+  {
+    "name": "/1.5/machine_learning_map.html",
+    "visitors": 6697
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_separating_hyperplane_unbalanced.html",
+    "visitors": 6677
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_robust_fit.html",
+    "visitors": 6674
+  },
+  {
+    "name": "/1.5/api/sklearn.datasets.html",
+    "visitors": 6636
+  },
+  {
+    "name": "/1.5/modules/feature_extraction.html",
+    "visitors": 6626
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.kmeans_plusplus.html",
+    "visitors": 6588
+  },
+  {
+    "name": "/dev/install.html",
+    "visitors": 6504
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_gpr_noisy.html",
+    "visitors": 6491
+  },
+  {
+    "name": "/1.5/datasets/real_world.html",
+    "visitors": 6478
+  },
+  {
+    "name": "/1.5/getting_started.html",
+    "visitors": 6452
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.naive_bayes.GaussianNB.html",
+    "visitors": 6445
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_1_0.html",
+    "visitors": 6426
+  },
+  {
+    "name": "/stable/developers/advanced_installation.html",
+    "visitors": 6371
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.semi_supervised.LabelPropagation.html",
+    "visitors": 6350
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.LeaveOneGroupOut.html",
+    "visitors": 6347
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.shuffle.html",
+    "visitors": 6328
+  },
+  {
+    "name": "/stable/api/sklearn.mixture.html",
+    "visitors": 6326
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_adjusted_for_chance_measures.html",
+    "visitors": 6325
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.model_selection.KFold.html",
+    "visitors": 6316
+  },
+  {
+    "name": "/1.5/auto_examples/index.html",
+    "visitors": 6314
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.validation_curve.html",
+    "visitors": 6286
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html",
+    "visitors": 6281
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.model_selection.cross_validate.html",
+    "visitors": 6281
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_theilsen.html",
+    "visitors": 6255
+  },
+  {
+    "name": "/stable/modules/generated/dbscan-function.html",
+    "visitors": 6238
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html",
+    "visitors": 6206
+  },
+  {
+    "name": "/stable/auto_examples/neural_networks/plot_rbm_logistic_classification.html",
+    "visitors": 6199
+  },
+  {
+    "name": "/1.5/modules/sgd.html",
+    "visitors": 6190
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_random_forest_regression_multioutput.html",
+    "visitors": 6188
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.preprocessing.OrdinalEncoder.html",
+    "visitors": 6168
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.SpectralEmbedding.html",
+    "visitors": 6162
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.ARDRegression.html",
+    "visitors": 6161
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.ExtraTreeClassifier.html",
+    "visitors": 6147
+  },
+  {
+    "name": "/dev/developers/index.html",
+    "visitors": 6141
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_segmentation_toy.html",
+    "visitors": 6113
+  },
+  {
+    "name": "/1.5/modules/multiclass.html",
+    "visitors": 6104
+  },
+  {
+    "name": "/stable/auto_examples/text/plot_hashing_vs_dict_vectorizer.html",
+    "visitors": 6091
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multiclass.OneVsOneClassifier.html",
+    "visitors": 6089
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_pca_vs_fa_model_selection.html",
+    "visitors": 6088
+  },
+  {
+    "name": "/1.4/tutorial/machine_learning_map/index.html",
+    "visitors": 6049
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_lasso_and_elasticnet.html",
+    "visitors": 6033
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html",
+    "visitors": 5952
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.neural_network.MLPRegressor.html",
+    "visitors": 5945
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html",
+    "visitors": 5943
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.load_diabetes.html",
+    "visitors": 5936
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.impute.KNNImputer.html",
+    "visitors": 5933
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_gpr_co2.html",
+    "visitors": 5914
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_grid_search_digits.html",
+    "visitors": 5908
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_linnerud.html",
+    "visitors": 5887
+  },
+  {
+    "name": "/stable/developers/contributing.html",
+    "visitors": 5858
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.rbf_kernel.html",
+    "visitors": 5856
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_nca_dim_reduction.html",
+    "visitors": 5845
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.ensemble.RandomTreesEmbedding.html",
+    "visitors": 5835
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_forest_iris.html",
+    "visitors": 5823
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_grid_search_text_feature_extraction.html",
+    "visitors": 5771
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.preprocessing.PolynomialFeatures.html",
+    "visitors": 5767
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_early_stopping.html",
+    "visitors": 5754
+  },
+  {
+    "name": "/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html",
+    "visitors": 5754
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_multioutput_face_completion.html",
+    "visitors": 5751
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/index.html",
+    "visitors": 5722
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html",
+    "visitors": 5696
+  },
+  {
+    "name": "/1.5/modules/calibration.html",
+    "visitors": 5692
+  },
+  {
+    "name": "/1.5/auto_examples/tree/plot_tree_regression.html",
+    "visitors": 5674
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html",
+    "visitors": 5671
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_discretization_strategies.html",
+    "visitors": 5667
+  },
+  {
+    "name": "/dev/whats_new.html",
+    "visitors": 5652
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.impute.MissingIndicator.html",
+    "visitors": 5635
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.ensemble.AdaBoostClassifier.html",
+    "visitors": 5628
+  },
+  {
+    "name": "/stable/computing/computational_performance.html",
+    "visitors": 5627
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html",
+    "visitors": 5614
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.cluster.KMeans.html",
+    "visitors": 5611
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_isotonic_regression.html",
+    "visitors": 5607
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.mixture.GaussianMixture.html",
+    "visitors": 5594
+  },
+  {
+    "name": "/stable/api/sklearn.semi_supervised.html",
+    "visitors": 5587
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.BaggingClassifier.html",
+    "visitors": 5576
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_feature_selection.html",
+    "visitors": 5563
+  },
+  {
+    "name": "/stable/api/sklearn.kernel_ridge.html",
+    "visitors": 5560
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.clear_data_home.html",
+    "visitors": 5555
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/index.html",
+    "visitors": 5544
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_covtype.html",
+    "visitors": 5527
+  },
+  {
+    "name": "/stable/auto_examples/semi_supervised/plot_semi_supervised_versus_svm_iris.html",
+    "visitors": 5525
+  },
+  {
+    "name": "/dev/",
+    "visitors": 5523
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.inspection.partial_dependence.html",
+    "visitors": 5517
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_det.html",
+    "visitors": 5514
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.PredictionErrorDisplay.html",
+    "visitors": 5494
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.homogeneity_score.html",
+    "visitors": 5494
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.average_precision_score.html",
+    "visitors": 5492
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.WhiteKernel.html",
+    "visitors": 5476
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.LearningCurveDisplay.html",
+    "visitors": 5440
+  },
+  {
+    "name": "/1.5/auto_examples/cluster/plot_cluster_comparison.html",
+    "visitors": 5380
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_sparse_logistic_regression_mnist.html",
+    "visitors": 5368
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.linear_model.Lasso.html",
+    "visitors": 5347
+  },
+  {
+    "name": "/stable/api/sklearn.random_projection.html",
+    "visitors": 5322
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html",
+    "visitors": 5314
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.PolynomialFeatures.html",
+    "visitors": 5276
+  },
+  {
+    "name": "/stable/auto_examples/mixture/index.html",
+    "visitors": 5270
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.export_text.html",
+    "visitors": 5251
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_logistic_path.html",
+    "visitors": 5243
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_digits_linkage.html",
+    "visitors": 5234
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.semi_supervised.SelfTrainingClassifier.html",
+    "visitors": 5231
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.power_transform.html",
+    "visitors": 5213
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_tomography_l1_reconstruction.html",
+    "visitors": 5198
+  },
+  {
+    "name": "/stable/whats_new/v1.4.html",
+    "visitors": 5194
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_roc_curve_visualization_api.html",
+    "visitors": 5179
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.NearestCentroid.html",
+    "visitors": 5170
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_feature_agglomeration_vs_univariate_selection.html",
+    "visitors": 5159
+  },
+  {
+    "name": "/1.5/auto_examples/classification/plot_classifier_comparison.html",
+    "visitors": 5144
+  },
+  {
+    "name": "/dev/modules/linear_model.html",
+    "visitors": 5136
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html",
+    "visitors": 5134
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.kernel_approximation.Nystroem.html",
+    "visitors": 5099
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.base.clone.html",
+    "visitors": 5098
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.hamming_loss.html",
+    "visitors": 5090
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.normalize.html",
+    "visitors": 5074
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.Lars.html",
+    "visitors": 5059
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.cluster.SpectralClustering.html",
+    "visitors": 5030
+  },
+  {
+    "name": "/stable/api/sklearn.multioutput.html",
+    "visitors": 5020
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_gmm.html",
+    "visitors": 5011
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.v_measure_score.html",
+    "visitors": 4986
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.set_config.html",
+    "visitors": 4950
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mean_squared_log_error.html",
+    "visitors": 4930
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html",
+    "visitors": 4923
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.rand_score.html",
+    "visitors": 4901
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/approximate_nearest_neighbors.html",
+    "visitors": 4882
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_lof_novelty_detection.html",
+    "visitors": 4880
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_weighted_samples.html",
+    "visitors": 4880
+  },
+  {
+    "name": "/stable/testimonials/testimonials.html",
+    "visitors": 4879
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.naive_bayes.MultinomialNB.html",
+    "visitors": 4872
+  },
+  {
+    "name": "/1.5/auto_examples/cluster/plot_dbscan.html",
+    "visitors": 4858
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_multilabel.html",
+    "visitors": 4848
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_gmm_init.html",
+    "visitors": 4841
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.GammaRegressor.html",
+    "visitors": 4839
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LassoLars.html",
+    "visitors": 4817
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_swiss_roll.html",
+    "visitors": 4811
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.AdaBoostClassifier.html",
+    "visitors": 4806
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_varimax_fa.html",
+    "visitors": 4795
+  },
+  {
+    "name": "/stable/api/sklearn.discriminant_analysis.html",
+    "visitors": 4783
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_regularization.html",
+    "visitors": 4782
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.pipeline.Pipeline.html",
+    "visitors": 4768
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.mixture.GaussianMixture.html",
+    "visitors": 4752
+  },
+  {
+    "name": "/1.5/api/sklearn.linear_model.html",
+    "visitors": 4748
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.frozen.FrozenEstimator.html",
+    "visitors": 4748
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_monotonic_constraints.html",
+    "visitors": 4719
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_digits_agglomeration.html",
+    "visitors": 4717
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.cluster.DBSCAN.html",
+    "visitors": 4714
+  },
+  {
+    "name": "/stable/api/sklearn.cross_decomposition.html",
+    "visitors": 4705
+  },
+  {
+    "name": "/stable/auto_examples/covariance/index.html",
+    "visitors": 4703
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html",
+    "visitors": 4686
+  },
+  {
+    "name": "/1.5/modules/manifold.html",
+    "visitors": 4651
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.SGDRegressor.html",
+    "visitors": 4630
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_svm_margin.html",
+    "visitors": 4613
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multioutput.ClassifierChain.html",
+    "visitors": 4595
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.pairwise_kernels.html",
+    "visitors": 4594
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.load_digits.html",
+    "visitors": 4591
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_feature_transformation.html",
+    "visitors": 4582
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html",
+    "visitors": 4561
+  },
+  {
+    "name": "/stable/auto_examples/text/index.html",
+    "visitors": 4561
+  },
+  {
+    "name": "/1.5/api/sklearn.model_selection.html",
+    "visitors": 4560
+  },
+  {
+    "name": "/1.6/search.html",
+    "visitors": 4559
+  },
+  {
+    "name": "/stable/auto_examples/feature_selection/plot_feature_selection_pipeline.html",
+    "visitors": 4553
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_0_24_0.html",
+    "visitors": 4549
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.TheilSenRegressor.html",
+    "visitors": 4513
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_grid_search_stats.html",
+    "visitors": 4508
+  },
+  {
+    "name": "/stable/auto_examples/multioutput/plot_classifier_chain_yeast.html",
+    "visitors": 4502
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.quantile_transform.html",
+    "visitors": 4486
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.load_wine.html",
+    "visitors": 4476
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.feature_selection.GenericUnivariateSelect.html",
+    "visitors": 4472
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_1_3_0.html",
+    "visitors": 4456
+  },
+  {
+    "name": "/1.5/api/sklearn.preprocessing.html",
+    "visitors": 4433
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.TargetEncoder.html",
+    "visitors": 4430
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.RationalQuadratic.html",
+    "visitors": 4428
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.multioutput.RegressorChain.html",
+    "visitors": 4406
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.semi_supervised.LabelSpreading.html",
+    "visitors": 4396
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.load_files.html",
+    "visitors": 4380
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_kmeans_stability_low_dim_dense.html",
+    "visitors": 4370
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.impute.IterativeImputer.html",
+    "visitors": 4367
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.svm.NuSVR.html",
+    "visitors": 4365
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.naive_bayes.GaussianNB.html",
+    "visitors": 4344
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_manifold_sphere.html",
+    "visitors": 4330
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_adaboost_multiclass.html",
+    "visitors": 4328
+  },
+  {
+    "name": "/dev/whats_new/v1.7.html",
+    "visitors": 4318
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_column_transformer.html",
+    "visitors": 4305
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html",
+    "visitors": 4305
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.precision_recall_curve.html",
+    "visitors": 4288
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.extmath.randomized_svd.html",
+    "visitors": 4283
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.SGDOneClassSVM.html",
+    "visitors": 4278
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.get_config.html",
+    "visitors": 4246
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.ValidationCurveDisplay.html",
+    "visitors": 4240
+  },
+  {
+    "name": "/stable/auto_examples/covariance/plot_covariance_estimation.html",
+    "visitors": 4211
+  },
+  {
+    "name": "/stable/auto_examples/compose/index.html",
+    "visitors": 4205
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.VotingClassifier.html",
+    "visitors": 4200
+  },
+  {
+    "name": "/1.5/auto_examples/ensemble/plot_gradient_boosting_regression.html",
+    "visitors": 4172
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.tree.ExtraTreeRegressor.html",
+    "visitors": 4158
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.mean_pinball_loss.html",
+    "visitors": 4111
+  },
+  {
+    "name": "/1.4/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 4108
+  },
+  {
+    "name": "/stable/developers/performance.html",
+    "visitors": 4089
+  },
+  {
+    "name": "/stable/auto_examples/gaussian_process/plot_gpc_iris.html",
+    "visitors": 4082
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.validation.check_is_fitted.html",
+    "visitors": 4046
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.tree.DecisionTreeRegressor.html",
+    "visitors": 4028
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.r2_score.html",
+    "visitors": 4026
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_successive_halving_heatmap.html",
+    "visitors": 4021
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_species_distribution_modeling.html",
+    "visitors": 4019
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.neighbors.NearestNeighbors.html",
+    "visitors": 4014
+  },
+  {
+    "name": "/1.5/model_selection.html",
+    "visitors": 3998
+  },
+  {
+    "name": "/dev/developers/advanced_installation.html",
+    "visitors": 3983
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_digits_kde_sampling.html",
+    "visitors": 3980
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.balanced_accuracy_score.html",
+    "visitors": 3970
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.median_absolute_error.html",
+    "visitors": 3965
+  },
+  {
+    "name": "/stable/auto_examples/semi_supervised/plot_label_propagation_digits_active_learning.html",
+    "visitors": 3946
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.get_scorer.html",
+    "visitors": 3943
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.ConstantKernel.html",
+    "visitors": 3941
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_voting_regressor.html",
+    "visitors": 3939
+  },
+  {
+    "name": "/stable/auto_examples/mixture/plot_concentration_prior.html",
+    "visitors": 3926
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_face_compress.html",
+    "visitors": 3918
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_pipeline_display.html",
+    "visitors": 3905
+  },
+  {
+    "name": "/1.5/api/sklearn.svm.html",
+    "visitors": 3903
+  },
+  {
+    "name": "/stable/api/sklearn.inspection.html",
+    "visitors": 3900
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_custom_kernel.html",
+    "visitors": 3894
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.check_scoring.html",
+    "visitors": 3868
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.ElasticNet.html",
+    "visitors": 3862
+  },
+  {
+    "name": "/1.5/unsupervised_learning.html",
+    "visitors": 3859
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.neural_network.MLPRegressor.html",
+    "visitors": 3843
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_swissroll.html",
+    "visitors": 3840
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.spectral_clustering.html",
+    "visitors": 3837
+  },
+  {
+    "name": "/stable/auto_examples/manifold/index.html",
+    "visitors": 3833
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.label_binarize.html",
+    "visitors": 3822
+  },
+  {
+    "name": "/stable/auto_examples/manifold/plot_mds.html",
+    "visitors": 3817
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.svm.OneClassSVM.html",
+    "visitors": 3810
+  },
+  {
+    "name": "/stable/auto_examples/miscellaneous/plot_partial_dependence_visualization_api.html",
+    "visitors": 3804
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html",
+    "visitors": 3801
+  },
+  {
+    "name": "/1.5/auto_examples/tree/plot_unveil_tree_structure.html",
+    "visitors": 3800
+  },
+  {
+    "name": "/stable/auto_examples/preprocessing/plot_discretization.html",
+    "visitors": 3767
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_selection.mutual_info_classif.html",
+    "visitors": 3756
+  },
+  {
+    "name": "/1.6/modules/model_evaluation.html",
+    "visitors": 3754
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.SpectralBiclustering.html",
+    "visitors": 3746
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.preprocessing.MinMaxScaler.html",
+    "visitors": 3739
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html",
+    "visitors": 3732
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.DotProduct.html",
+    "visitors": 3723
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.completeness_score.html",
+    "visitors": 3723
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.permutation_test_score.html",
+    "visitors": 3694
+  },
+  {
+    "name": "/dev/modules/cross_validation.html",
+    "visitors": 3682
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html",
+    "visitors": 3679
+  },
+  {
+    "name": "/1.5/modules/compose.html",
+    "visitors": 3675
+  },
+  {
+    "name": "/stable/auto_examples/compose/plot_feature_union.html",
+    "visitors": 3675
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.linear_model.ElasticNet.html",
+    "visitors": 3669
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_coin_segmentation.html",
+    "visitors": 3656
+  },
+  {
+    "name": "/1.5/api/sklearn.ensemble.html",
+    "visitors": 3655
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.KNeighborsTransformer.html",
+    "visitors": 3652
+  },
+  {
+    "name": "/1.5/model_persistence.html",
+    "visitors": 3638
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_birch_vs_minibatchkmeans.html",
+    "visitors": 3636
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.feature_selection.SelectKBest.html",
+    "visitors": 3632
+  },
+  {
+    "name": "/dev/api/index.html",
+    "visitors": 3626
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 3618
+  },
+  {
+    "name": "/stable/developers/index.html",
+    "visitors": 3611
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.covariance.MinCovDet.html",
+    "visitors": 3608
+  },
+  {
+    "name": "/stable/auto_examples/bicluster/plot_spectral_coclustering.html",
+    "visitors": 3604
+  },
+  {
+    "name": "/1.5/auto_examples/cluster/plot_cluster_iris.html",
+    "visitors": 3597
+  },
+  {
+    "name": "/stable/auto_examples/semi_supervised/index.html",
+    "visitors": 3594
+  },
+  {
+    "name": "/stable/whats_new/v1.3.html",
+    "visitors": 3578
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_voting_decision_regions.html",
+    "visitors": 3576
+  },
+  {
+    "name": "/stable/auto_examples/inspection/plot_causal_interpretation.html",
+    "visitors": 3575
+  },
+  {
+    "name": "/1.6/supervised_learning.html",
+    "visitors": 3565
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_sgdocsvm_vs_ocsvm.html",
+    "visitors": 3562
+  },
+  {
+    "name": "/stable/auto_examples/svm/plot_linearsvc_support_vectors.html",
+    "visitors": 3557
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_omp.html",
+    "visitors": 3519
+  },
+  {
+    "name": "/stable/auto_examples/multiclass/plot_multiclass_overview.html",
+    "visitors": 3493
+  },
+  {
+    "name": "/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html",
+    "visitors": 3485
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_dict_face_patches.html",
+    "visitors": 3461
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.make_blobs.html",
+    "visitors": 3436
+  },
+  {
+    "name": "/1.5/auto_examples/decomposition/plot_pca_iris.html",
+    "visitors": 3432
+  },
+  {
+    "name": "/stable/auto_examples/cross_decomposition/index.html",
+    "visitors": 3426
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.LogisticRegressionCV.html",
+    "visitors": 3424
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.SpectralCoclustering.html",
+    "visitors": 3419
+  },
+  {
+    "name": "/stable/auto_examples/kernel_approximation/index.html",
+    "visitors": 3415
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_train_error_vs_test_error.html",
+    "visitors": 3413
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_tuned_decision_threshold.html",
+    "visitors": 3413
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.datasets.fetch_california_housing.html",
+    "visitors": 3407
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_friedman1.html",
+    "visitors": 3404
+  },
+  {
+    "name": "/stable/api/sklearn.kernel_approximation.html",
+    "visitors": 3393
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.FixedThresholdClassifier.html",
+    "visitors": 3391
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_selection.SelectKBest.html",
+    "visitors": 3383
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.lasso_path.html",
+    "visitors": 3378
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_huber_vs_ridge.html",
+    "visitors": 3376
+  },
+  {
+    "name": "/stable/auto_examples/model_selection/plot_permutation_tests_for_classification.html",
+    "visitors": 3359
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.kernel_approximation.RBFSampler.html",
+    "visitors": 3358
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html",
+    "visitors": 3345
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.utils.validation.validate_data.html",
+    "visitors": 3343
+  },
+  {
+    "name": "/stable/whats_new/v1.0.html",
+    "visitors": 3329
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_selection.RFE.html",
+    "visitors": 3327
+  },
+  {
+    "name": "/stable/auto_examples/decomposition/plot_ica_vs_pca.html",
+    "visitors": 3323
+  },
+  {
+    "name": "/stable/whats_new/v1.2.html",
+    "visitors": 3323
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_multi_task_lasso_support.html",
+    "visitors": 3316
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.inspection.permutation_importance.html",
+    "visitors": 3311
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_kddcup99.html",
+    "visitors": 3307
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.preprocessing.OrdinalEncoder.html",
+    "visitors": 3302
+  },
+  {
+    "name": "/stable/auto_examples/applications/plot_out_of_core_classification.html",
+    "visitors": 3296
+  },
+  {
+    "name": "/1.6/index.html",
+    "visitors": 3289
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.roc_auc_score.html",
+    "visitors": 3283
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.manifold.trustworthiness.html",
+    "visitors": 3275
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html",
+    "visitors": 3273
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html",
+    "visitors": 3269
+  },
+  {
+    "name": "/stable/auto_examples/linear_model/plot_ridge_coeffs.html",
+    "visitors": 3268
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.feature_selection.RFECV.html",
+    "visitors": 3255
+  },
+  {
+    "name": "/1.5/auto_examples/cluster/plot_kmeans_digits.html",
+    "visitors": 3254
+  },
+  {
+    "name": "/stable/api/sklearn.isotonic.html",
+    "visitors": 3252
+  },
+  {
+    "name": "/dev/auto_examples/classification/plot_classifier_comparison.html",
+    "visitors": 3237
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.fetch_20newsgroups_vectorized.html",
+    "visitors": 3230
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.naive_bayes.MultinomialNB.html",
+    "visitors": 3228
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_nca_classification.html",
+    "visitors": 3219
+  },
+  {
+    "name": "/dev/developers/develop.html",
+    "visitors": 3215
+  },
+  {
+    "name": "/1.5/auto_examples/text/plot_document_clustering.html",
+    "visitors": 3213
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html",
+    "visitors": 3211
+  },
+  {
+    "name": "/1.5/modules/lda_qda.html",
+    "visitors": 3207
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cluster.ward_tree.html",
+    "visitors": 3201
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.datasets.make_multilabel_classification.html",
+    "visitors": 3197
+  },
+  {
+    "name": "/1.5/api/sklearn.cluster.html",
+    "visitors": 3193
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.linear_model.LassoCV.html",
+    "visitors": 3190
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.ensemble.RandomForestClassifier.html",
+    "visitors": 3180
+  },
+  {
+    "name": "/stable/whats_new/v0.18.html",
+    "visitors": 3148
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html",
+    "visitors": 3143
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.cross_decomposition.PLSCanonical.html",
+    "visitors": 3142
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.model_selection.cross_val_score.html",
+    "visitors": 3140
+  },
+  {
+    "name": "/1.7/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "visitors": 3139
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.gaussian_process.kernels.Hyperparameter.html",
+    "visitors": 3134
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html",
+    "visitors": 3117
+  },
+  {
+    "name": "/stable/auto_examples/neighbors/plot_species_kde.html",
+    "visitors": 3116
+  },
+  {
+    "name": "/stable/modules/clustering",
+    "visitors": 3116
+  },
+  {
+    "name": "/stable/auto_examples/ensemble/plot_gradient_boosting_oob.html",
+    "visitors": 3106
+  },
+  {
+    "name": "/stable/governance.html",
+    "visitors": 3105
+  },
+  {
+    "name": "/1.5/developers/develop.html",
+    "visitors": 3098
+  },
+  {
+    "name": "/stable/auto_examples/developing_estimators/index.html",
+    "visitors": 3092
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.preprocessing.robust_scale.html",
+    "visitors": 3086
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.metrics.pairwise_distances.html",
+    "visitors": 3084
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.model_selection.ParameterSampler.html",
+    "visitors": 3084
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html",
+    "visitors": 3081
+  },
+  {
+    "name": "/stable/auto_examples/cluster/plot_inductive_clustering.html",
+    "visitors": 3070
+  },
+  {
+    "name": "/1.6/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+    "visitors": 3050
+  },
+  {
+    "name": "/1.6/modules/neighbors.html",
+    "visitors": 3050
+  },
+  {
+    "name": "/stable/api/sklearn.experimental.html",
+    "visitors": 3041
+  },
+  {
+    "name": "/1.5/auto_examples/applications/plot_cyclical_feature_engineering.html",
+    "visitors": 3038
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.det_curve.html",
+    "visitors": 3037
+  },
+  {
+    "name": "/1.5/modules/generated/sklearn.gaussian_process.kernels.RBF.html",
+    "visitors": 3028
+  },
+  {
+    "name": "/1.5/auto_examples/tree/plot_iris_dtc.html",
+    "visitors": 3024
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.hinge_loss.html",
+    "visitors": 3023
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.decomposition.TruncatedSVD.html",
+    "visitors": 3022
+  },
+  {
+    "name": "/1.5/auto_examples/preprocessing/plot_all_scaling.html",
+    "visitors": 3020
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html",
+    "visitors": 3005
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.pairwise.polynomial_kernel.html",
+    "visitors": 3000
+  },
+  {
+    "name": "/stable/modules/generated/sklearn.metrics.get_scorer_names.html",
+    "visitors": 2989
+  },
+  {
+    "name": "/dev/modules/generated/sklearn.metrics.auc.html",
+    "visitors": 2983
+  }
+]
