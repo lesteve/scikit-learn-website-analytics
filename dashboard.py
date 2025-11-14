@@ -15,15 +15,21 @@ def load_data(path=DATA_PATH):
     df = pd.read_json(path)
     df = df[["name", "visitors"]]
     # Remove some weird entries like /scikit-learn/...
-    mask = df['name'].str.match(r'^/(dev|stable|\d\.\d)')
+    mask = df["name"].str.match(r"^/(dev|stable|\d\.\d)")
     df = df[mask]
 
     # TODO remove API index.html pages
     # TODO Should we remove internal stuff like base class or sklearn.utils?
 
     # Group different versions
-    df['name'] = df['name'].str.extract(r'/(?:dev|stable|\d\.\d)/(.+)')
-    df_grouped = df[['name', 'visitors']].groupby('name').sum().sort_values('visitors', ascending=False).reset_index()
+    df["name"] = df["name"].str.extract(r"/(?:dev|stable|\d\.\d)/(.+)")
+    df_grouped = (
+        df[["name", "visitors"]]
+        .groupby("name")
+        .sum()
+        .sort_values("visitors", ascending=False)
+        .reset_index()
+    )
 
     return df_grouped
 
@@ -36,7 +42,7 @@ def make_table(df):
         height=2000,
         name="Top pages",
         page_size=100,
-        editors={"name": None, "visitors": None},
+        editors={"name": None, "visitors": None, "cumsum": None},
     )
 
 
@@ -65,7 +71,6 @@ def make_histogram(df):
         y="label",
         orientation="h",
         hover_data={"name": True},
-        # title='Unique visitors by page'
     )
 
     # Hacky way to adapt size based on number of rows
@@ -74,7 +79,7 @@ def make_histogram(df):
     return pn.pane.Plotly(fig, sizing_mode="fixed")
 
 
-df = load_data()
+full_df = load_data()
 
 search = pn.widgets.TextInput(
     name=r"Regex to filter page if the buttons above are not enough",
@@ -126,12 +131,16 @@ search.param.watch(_on_search_change, "value")
 
 def filtered_df(pattern):
     if not pattern:
-        return df
+        return full_df
     try:
-        return df[df["name"].str.contains(pattern, regex=True)]
+        filtered = full_df.copy()[full_df["name"].str.contains(pattern, regex=True)]
+        total_visitors = filtered["visitors"].sum()
+        filtered["cumsum"] = filtered["visitors"].cumsum() / total_visitors
+        return filtered
+
     except Exception:
         # likely an invalid regex => return empty DataFrame
-        return df.iloc[0:0]
+        return full_df.iloc[0:0]
 
 
 # Bind the histogram and table to the filtered dataframe so they update automatically
